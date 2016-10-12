@@ -20,3 +20,10 @@ ul{
 p{
   font-size:16pt;
 }
+.stormyRED{
+  color: red;
+}
+.head{
+  font-style: italic;
+  font-family: fantasy;
+}
